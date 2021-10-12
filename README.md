@@ -1,0 +1,2 @@
+# clubautofilterbot
+For all
